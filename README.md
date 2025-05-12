@@ -1,6 +1,6 @@
-## Hi 🤝
+## Hi 🤝 My name is **Lino**
 
-My name is **Lino**. I am a student at the University of Waterloo studying Management Engineering. I’m passionate about project management, product management, data analysis, and software engineering, and I’m eager to dive deeper into AI/ML.
+I am a student at the University of Waterloo studying Management Engineering. I’m passionate about project management, product management, data analysis, and software engineering, and I’m eager to dive deeper into AI/ML.
 
 In my free time, I enjoy:
 - 🥾 Hiking  
