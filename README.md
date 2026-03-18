@@ -1,26 +1,29 @@
-## Hi 🤝 My name is **Lino**
+# Hi 🤝 My name is Lino
 
-I am a student at the University of Waterloo studying Management Engineering. I’m passionate about project management, product management, data analysis, and software engineering, and I’m eager to dive deeper into AI/ML.
+I am a 4th-year Management Engineering student at the University of Waterloo. I'm passionate about AI/ML engineering, full-stack development, forward deployed engineering, and building systems that create real-world impact.
 
 In my free time, I enjoy:
-- 🥾 Hiking  
-- 🏃 Running  
-- 🎸 Playing guitar  
-- 🎧 Listening to podcasts & music  
-- 👨‍👩‍👧‍👦 Spending time with friends & family  
+- 🥾 Hiking
+- 🏃 Running
+- 🎸 Playing guitar
+- 🎧 Listening to podcasts & music
+- 👨‍👩‍👧‍👦 Spending time with friends & family
 
-I’ve worked on projects involving automation, front-end development, and back-end development using Python, JavaScript, and more. I’ve used Python for NLP, Computer Vision, and data analysis (NumPy, Pandas), and JavaScript to build full-stack apps with React.js and Node.js. I’m continually enhancing my proficiency in software development, product management, and AI/ML.
+I've worked on projects involving AI/ML engineering, full-stack development, and data engineering using Python, TypeScript, and JavaScript. I've used Python for RAG pipelines, NLP, computer vision, and data engineering, and TypeScript and JavaScript to build full-stack apps with React.js, Next.js, Node.js, NestJS, FastAPI, and Flask, backed by PostgreSQL, MySQL, MongoDB, Redis, Neo4j, and Weaviate. I've also built and deployed AI systems integrating LLMs, computer vision, and vector databases across production environments.
 
-### 🚀 Technologies & Tools
+## 🚀 Technologies & Tools
 
-🐍 Python | ⚛️ React.js | 🟢 Node.js | 📜 JavaScript | 🐙 GitHub | 🖥️ VS Code | 🐬 MySQL | ☁️ Microsoft Azure | 🔄 Power Automate | 🎥 OpenCV | 🐳 Docker
+🐍 Python | 📘 TypeScript | 📜 JavaScript | ⚛️ React.js | 🔺 Next.js | 🟢 Node.js | ⚙️ NestJS | 🚀 FastAPI | 🌶️ Flask | 🐬 MySQL | 🐘 PostgreSQL | 🍃 MongoDB | 🔴 Redis | 🕸️ Neo4j | 🔮 Weaviate | ☁️ GCP | ☁️ Azure | 🐳 Docker | 🎥 OpenCV | 🤗 Hugging Face | 🔗 LangChain | 🐙 GitHub | 🖥️ VS Code
 
-### 🔗 Socials
+## 🏆 Highlights
+- 📄 Published research on computer vision and LLM-based hazard detection baselines
+- 🎤 Presented FORTif.ai at CUCAI, UTMIST DevCon, and Socratica Symposium 2026
+- 🤖 Participated in the AI x Data Science for Good Hackathon 2026
 
-- **Discord** dalinoman  
-- **GitHub** [d-lino-kee](https://github.com/d-lino-kee)  
-- **LinkedIn** [linkedin.com/in/linokee0423](https://www.linkedin.com/in/linokee0423/)  
+## 🔗 Socials
+- Discord: dalinoman
+- GitHub: [d-lino-kee](https://github.com/d-lino-kee)
+- LinkedIn: [linkedin.com/in/linokee0423](https://linkedin.com/in/linokee0423)
 
 ---
-
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+> Build. Deploy. Impact. 🚀
